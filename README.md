@@ -1,2 +1,2 @@
 # ZeroWaste
-For FEBA
+2nd place in Navruz hackathon💪
